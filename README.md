@@ -23,11 +23,13 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
 
 
 #### Combination Models (Deliverable 2):
+(file: Notebooks/credit_risk_resampling.ipynb)
 *Below is an image of the balanced accuracy score and imbalance classification report when the combinatin sampling SMOTEENN is used:*
 ![This is an image](https://github.com/crystdang/Credit-Risk-Analysis/blob/main/Images/SMOTEENN_BAS.png)
 ![This is an image](https://github.com/crystdang/Credit-Risk-Analysis/blob/main/Images/SMOTEENN_imbalanced.png)
 
 #### Ensemble Models (Deliverable 3): 
+(file: Notebooks/credit_risk_ensemble.ipynb)
 *Below is an image of the balanced accuracy score and imbalance classification report when the machine learning model BalancedRandomForestClassifier is used:*
 ![This is an image](https://github.com/crystdang/Credit-Risk-Analysis/blob/main/Images/Forest_BAS.png)
 ![This is an image](https://github.com/crystdang/Credit-Risk-Analysis/blob/main/Images/Forest_imbalanced.png)
